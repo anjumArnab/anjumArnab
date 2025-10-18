@@ -26,11 +26,7 @@ I’m currently advancing my expertise in state management, animations, and full
 It also provides seamless route visualization between shared locations by integrating **OpenStreetMap** with the **OSRM API**.  
 **Tech Stack:** Flutter, Node.js, Socket.IO, OSRM, OpenStreetMap  
 
-![Here We Go 1](https://github.com/anjumArnab/Here-We-Go/blob/main/assets/t01.png)
-![Here We Go 2](https://github.com/anjumArnab/Here-We-Go/blob/main/assets/t02.png)
-![Here We Go 3](https://github.com/anjumArnab/Here-We-Go/blob/main/assets/t03.png)
-![Here We Go 4](https://github.com/anjumArnab/Here-We-Go/blob/main/assets/t04.png)
-![Here We Go 5](https://github.com/anjumArnab/Here-We-Go/blob/main/assets/t05.png)
+![Here We Go](https://github.com/anjumArnab/Here-We-Go/blob/main/assets/herewego.gif)
 
 ---
 
@@ -51,11 +47,7 @@ It also provides seamless route visualization between shared locations by integr
 **Description:** Markify is a lightweight Flutter app that tracks your CGPA using **Google Sheets** as a backend database, with **Google Apps Script** providing a RESTful API interface.  
 **Tech Stack:** Flutter, Google Sheets, Apps Script  
 
-![Markify 1](https://github.com/anjumArnab/Markify/blob/main/assets/t01.png)
-![Markify 2](https://github.com/anjumArnab/Markify/blob/main/assets/t02.png)
-![Markify 3](https://github.com/anjumArnab/Markify/blob/main/assets/t03.png)
-![Markify 4](https://github.com/anjumArnab/Markify/blob/main/assets/t04.png)
-![Markify 5](https://github.com/anjumArnab/Markify/blob/main/assets/t05.png)
+![Markify](https://github.com/anjumArnab/Markify/blob/main/assets/markify.gif)
 
 ---
 
@@ -68,11 +60,7 @@ It also provides seamless route visualization between shared locations by integr
 - Language Detection  
 - Text Summarization  
 
-![WriteRight 1](https://github.com/anjumArnab/Write-Right/blob/main/assets/t01.png)
-![WriteRight 2](https://github.com/anjumArnab/Write-Right/blob/main/assets/t02.png)
-![WriteRight 3](https://github.com/anjumArnab/Write-Right/blob/main/assets/t03.png)
-![WriteRight 4](https://github.com/anjumArnab/Write-Right/blob/main/assets/t04.png)
-![WriteRight 5](https://github.com/anjumArnab/Write-Right/blob/main/assets/t05.png)
+![WriteRight 1](https://github.com/anjumArnab/Write-Right/blob/main/assets/writeright.gif)
 
 ---
 
@@ -81,11 +69,7 @@ It also provides seamless route visualization between shared locations by integr
 Includes preloaded Islamic dhikrs with flexibility to add custom dhikr and achievements for milestones.  
 **Tech Stack:** Flutter, Material Design, SharedPreferences  
 
-![Tasbih 1](https://github.com/anjumArnab/Tasbih/blob/main/assets/t01.png)
-![Tasbih 2](https://github.com/anjumArnab/Tasbih/blob/main/assets/t02.png)
-![Tasbih 3](https://github.com/anjumArnab/Tasbih/blob/main/assets/t03.png)
-![Tasbih 4](https://github.com/anjumArnab/Tasbih/blob/main/assets/t04.png)
-![Tasbih 5](https://github.com/anjumArnab/Tasbih/blob/main/assets/t05.png)
+![Tasbih](https://github.com/anjumArnab/Tasbih/blob/main/assets/tasbih.gif)
 
 ---
 
@@ -93,8 +77,7 @@ Includes preloaded Islamic dhikrs with flexibility to add custom dhikr and achie
 **Description:** Application to track loans using **Hive** for secure local storage.  
 **Tech Stack:** Flutter, Hive  
 
-![Halkhata 1](https://github.com/anjumArnab/Halkhata/blob/main/assets/t01.png)
-![Halkhata 2](https://github.com/anjumArnab/Halkhata/blob/main/assets/t02.png)
+![Halkhata](https://github.com/anjumArnab/Halkhata/blob/main/assets/halkhata.gif)
 
 ---
 
@@ -103,16 +86,13 @@ Includes preloaded Islamic dhikrs with flexibility to add custom dhikr and achie
 Allows users to create, update, and mark tasks as completed, with Hive for local persistence and a clean, interactive UI.  
 **Tech Stack:** Flutter, SQFLite, Hive  
 
-![Taskio 1](https://github.com/anjumArnab/Taskio/blob/main/assets/t01.png)
-![Taskio 2](https://github.com/anjumArnab/Taskio/blob/main/assets/t02.png)
-![Taskio 3](https://github.com/anjumArnab/Taskio/blob/main/assets/t03.png)
+![Taskio](https://github.com/anjumArnab/Taskio/blob/main/assets/taskio.gif)
 
 ---
 
 ## Currently Learning
-- Advanced Flutter architecture (BLoC, Riverpod)
-- Backend integration with Firebase & REST APIs
-- App deployment and optimization
+- Mastering state management (Provider)
+- Mastering Backend integration with Firebase & REST APIs
 
 ---
 
