@@ -22,6 +22,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 
 ### Here We Go
 **Description:** A real-time location sharing solution provides seamless route visualization between shared locations.
+
 **Tech Stack:** Flutter, Node.js, Socket.IO, OSRM API, OpenStreetMap
 
 ![Here We Go](https://github.com/anjumArnab/Here-We-Go/blob/main/assets/herewego.gif)
@@ -30,12 +31,14 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 
 ### AuthSync
 **Description:** A comprehensive Flutter authentication app with Firebase integration and custom multi-account switching functionality.
+
 **Features:**
 - Standard Authentication: Email/Password, Google, Facebook, Phone
 - Account Management: Sign-up, Password reset, Email verification, Account deletion
 - Multi-Account System: Custom multiple account switching
 - Secure Storage: Encrypted local storage with automatic token cleanup
 - Server Integration: Node.js backend with Firebase Admin SDK
+
 **Tech Stack:** Flutter, Firebase, Firebase Admin SDK, Node.js
 
 ![AuthSync Demo](https://github.com/anjumArnab/AuthSync/blob/main/assets/authsync.gif)
@@ -44,6 +47,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 
 ### Markify
 **Description:** Markify is a lightweight Flutter app that tracks your CGPA using **Google Sheets** as a backend database, with **Google Apps Script** providing a RESTful API interface.
+
 **Tech Stack:** Flutter, Google Sheets, Google Apps Script
 
 ![Markify](https://github.com/anjumArnab/Markify/blob/main/assets/markify.gif)
@@ -52,6 +56,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 
 ### WriteRight
 **Description:** Application that integrates the **TextGear API** to perform: Grammar Check, Spelling Correction, Auto Correction, Text Suggestion, Language Detection, Text Summarization.
+
 **Tech Stack:** Flutter, Material Design, Rest API
 
 ![WriteRight 1](https://github.com/anjumArnab/Write-Right/blob/main/assets/writeright.gif)
@@ -60,6 +65,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 
 ### Tasbih
 **Description:** Islamic dhikr counter featuring **streak visualization** with dynamic color coding that intensifies as users complete more daily dhikr sessions. Includes preloaded Islamic dhikrs with flexibility to add custom dhikr and achievements for milestones.
+
 **Tech Stack:** Flutter, Material Design, Hive
 
 ![Tasbih](https://github.com/anjumArnab/Tasbih/blob/main/assets/tasbih.gif)
@@ -68,6 +74,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 
 ### Taskio
 **Description:** Simple To-Do List app built with a calendar view. Allows users to create, update, and mark tasks as completed, with Hive for local persistence and a clean, interactive UI.
+
 **Tech Stack:** Flutter, Material Design, Hive
 
 ![Taskio](https://github.com/anjumArnab/Taskio/blob/main/assets/taskio.gif)
