@@ -48,7 +48,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 ### Markify
 **Description:** Markify is a lightweight Flutter app that tracks your CGPA using **Google Sheets** as a backend database, with **Google Apps Script** providing a RESTful API interface.
 
-**Tech Stack:** Flutter, Google Sheets, Google Apps Script
+**Tech Stack:** Flutter, Google Sheets, Google Apps Script, Provider
 
 ![Markify](https://github.com/anjumArnab/Markify/blob/main/assets/markify.gif)
 
@@ -57,7 +57,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 ### WriteRight
 **Description:** Application that integrates the **TextGear API** to perform: Grammar Check, Spelling Correction, Auto Correction, Text Suggestion, Language Detection, Text Summarization.
 
-**Tech Stack:** Flutter, Material Design, Rest API
+**Tech Stack:** Flutter, Material Design, Rest API, Provider
 
 ![WriteRight 1](https://github.com/anjumArnab/Write-Right/blob/main/assets/writeright.gif)
 
