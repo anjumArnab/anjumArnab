@@ -56,11 +56,11 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 ### [Markify](https://github.com/anjumArnab/Markify)
 **Description:** Markify is a lightweight Flutter app that tracks your CGPA using **Google Sheets** as a backend database, with **Google Apps Script** providing a RESTful API interface.
 
-**Tech Stack:** Flutter, Google Sheets, Google Apps Script, Provider
-
 **Feature:**
 - Download data as CSV, JSON, or PDF format
 - Share with others
+
+**Tech Stack:** Flutter, Google Sheets, Google Apps Script, Provider
 
 ![Markify](https://github.com/anjumArnab/Markify/blob/main/assets/markify.gif)
 
