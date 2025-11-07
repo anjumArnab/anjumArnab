@@ -58,6 +58,10 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 
 **Tech Stack:** Flutter, Google Sheets, Google Apps Script, Provider
 
+**Feature:**
+- Download data as CSV, JSON, or PDF format
+- Share with others
+
 ![Markify](https://github.com/anjumArnab/Markify/blob/main/assets/markify.gif)
 
 </td>
