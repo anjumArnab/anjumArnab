@@ -21,7 +21,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [Here We Go](https://github.com/anjumArnab/Here-We-Go)
 **Description:** A real-time location sharing solution provides seamless route visualization between shared locations.
@@ -31,7 +31,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 ![Here We Go](https://github.com/anjumArnab/Here-We-Go/blob/main/assets/herewego.gif)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [AuthSync](https://github.com/anjumArnab/AuthSync)
 **Description:** A comprehensive Flutter authentication app with Firebase integration and custom multi-account switching functionality.
@@ -51,7 +51,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [Markify](https://github.com/anjumArnab/Markify)
 **Description:** Markify is a lightweight Flutter app that tracks your CGPA using **Google Sheets** as a backend database, with **Google Apps Script** providing a RESTful API interface.
@@ -61,7 +61,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 ![Markify](https://github.com/anjumArnab/Markify/blob/main/assets/markify.gif)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [WriteRight](https://github.com/anjumArnab/Write-Right)
 **Description:** Application that integrates the **TextGear API** to perform: Grammar Check, Spelling Correction, Auto Correction, Text Suggestion, Language Detection, Text Summarization.
