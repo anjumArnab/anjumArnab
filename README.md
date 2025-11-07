@@ -1,7 +1,6 @@
-
 # Hi, I'm Arnab
 
-I am a Flutter developer focused on building scalable, maintainable, and high-performance mobile applications. I’m currently advancing my expertise in state management, animations, and full-stack development with Firebase and Node.js.
+I am a Flutter developer focused on building scalable, maintainable, and high-performance mobile applications. I'm currently advancing my expertise in state management, animations, and full-stack development with Firebase and Node.js.
 
 ---
 
@@ -20,16 +19,21 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 
 ## Featured Projects
 
-### Here We Go
+<table>
+<tr>
+<td width="50%">
+
+### [Here We Go](https://github.com/anjumArnab/Here-We-Go)
 **Description:** A real-time location sharing solution provides seamless route visualization between shared locations.
 
 **Tech Stack:** Flutter, Node.js, Socket.IO, OSRM API, OpenStreetMap
 
 ![Here We Go](https://github.com/anjumArnab/Here-We-Go/blob/main/assets/herewego.gif)
 
----
+</td>
+<td width="50%">
 
-### AuthSync
+### [AuthSync](https://github.com/anjumArnab/AuthSync)
 **Description:** A comprehensive Flutter authentication app with Firebase integration and custom multi-account switching functionality.
 
 **Features:**
@@ -43,41 +47,55 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 
 ![AuthSync Demo](https://github.com/anjumArnab/AuthSync/blob/main/assets/authsync.gif)
 
----
+</td>
+</tr>
 
-### Markify
+<tr>
+<td width="50%">
+
+### [Markify](https://github.com/anjumArnab/Markify)
 **Description:** Markify is a lightweight Flutter app that tracks your CGPA using **Google Sheets** as a backend database, with **Google Apps Script** providing a RESTful API interface.
 
 **Tech Stack:** Flutter, Google Sheets, Google Apps Script, Provider
 
 ![Markify](https://github.com/anjumArnab/Markify/blob/main/assets/markify.gif)
 
----
+</td>
+<td width="50%">
 
-### WriteRight
+### [WriteRight](https://github.com/anjumArnab/Write-Right)
 **Description:** Application that integrates the **TextGear API** to perform: Grammar Check, Spelling Correction, Auto Correction, Text Suggestion, Language Detection, Text Summarization.
 
 **Tech Stack:** Flutter, Material Design, Rest API, Provider
 
 ![WriteRight 1](https://github.com/anjumArnab/Write-Right/blob/main/assets/writeright.gif)
 
----
+</td>
+</tr>
 
-### Tasbih
+<tr>
+<td width="50%">
+
+### [Tasbih](https://github.com/anjumArnab/Tasbih)
 **Description:** Islamic dhikr counter featuring **streak visualization** with dynamic color coding that intensifies as users complete more daily dhikr sessions. Includes preloaded Islamic dhikrs with flexibility to add custom dhikr and achievements for milestones.
 
 **Tech Stack:** Flutter, Material Design, Hive
 
 ![Tasbih](https://github.com/anjumArnab/Tasbih/blob/main/assets/tasbih.gif)
 
----
+</td>
+<td width="50%">
 
-### Taskio
-**Description:** Simple To-Do List app built with a calendar view. Allows users to create, update, and mark tasks as completed, with Hive for local persistence and a clean, interactive UI.
+### [TickIt](https://github.com/anjumArnab/TickIt)
+**Description:** TickIt helps you plan and manage your daily tasks, including a dedicated timeline view to visualize your day. Organize tasks by workspace categories such as Personal, Work, Freelance, and Projects. Add subtasks, set color-based priorities, and stay focused with an integrated Pomodoro timer. Powered by the Hive and SQFLite database for local storage.
 
-**Tech Stack:** Flutter, Material Design, Hive
+**Tech Stack:** Flutter, Material Design, Hive, SQFLite
 
-![Taskio](https://github.com/anjumArnab/Taskio/blob/main/assets/taskio.gif)
+![Taskio](https://github.com/anjumArnab/TickIt/blob/main/assets/tick_it.gif)
+
+</td>
+</tr>
+</table>
 
 ---
 
