@@ -24,7 +24,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 <td width="50%" valign="top">
 
 ### [Here We Go](https://github.com/anjumArnab/Here-We-Go)
-**Description:** A real-time location sharing solution provides seamless route visualization between shared locations.
+**Description:** Real-time location sharing solution provides seamless route visualization between shared locations.
 
 **Tech Stack:** Flutter, Node.js, Socket.IO, OSRM API, OpenStreetMap
 
@@ -34,7 +34,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 <td width="50%" valign="top">
 
 ### [AuthSync](https://github.com/anjumArnab/AuthSync)
-**Description:** A comprehensive Flutter authentication app with Firebase integration and custom multi-account switching functionality.
+**Description:** Comprehensive Flutter authentication app with Firebase integration and custom multi-account switching functionality.
 
 **Features:**
 - Standard Authentication: Email/Password, Google, Facebook, Phone
@@ -78,7 +78,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [Tasbih](https://github.com/anjumArnab/Tasbih)
 **Description:** Islamic dhikr counter featuring **streak visualization** with dynamic color coding that intensifies as users complete more daily dhikr sessions. Includes preloaded Islamic dhikrs with flexibility to add custom dhikr and achievements for milestones.
@@ -88,7 +88,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 ![Tasbih](https://github.com/anjumArnab/Tasbih/blob/main/assets/tasbih.gif)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [TickIt](https://github.com/anjumArnab/TickIt)
 **Description:** TickIt helps you plan and manage your daily tasks, including a dedicated timeline view to visualize your day. Organize tasks by workspace categories such as Personal, Work, Freelance, and Projects. Add subtasks, set color-based priorities, and stay focused with an integrated Pomodoro timer. Powered by the Hive and SQFLite database for local storage.
