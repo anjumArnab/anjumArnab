@@ -26,7 +26,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 ### [Here We Go](https://github.com/anjumArnab/Here-We-Go)
 **Description:** Real-time location sharing solution provides seamless route visualization between shared locations.
 
-**Tech Stack:** Flutter, Node.js, Socket.IO, OSRM API, OpenStreetMap
+**Tech Stack:** Flutter, Node.js, Socket.IO, Provider
 
 ![Here We Go](https://github.com/anjumArnab/Here-We-Go/blob/main/assets/herewego.gif)
 
