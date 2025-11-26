@@ -24,9 +24,9 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 <td width="50%" valign="top">
 
 ### [Here We Go](https://github.com/anjumArnab/Here-We-Go)
-**Description:** Real-time location sharing solution provides seamless route visualization between shared locations.
+**Description:** Real-time location tracking and navigation application built with Flutter, Node.js, and Socket.IO. It enables users to share their live GPS locations, communicate through group chat, and navigate to each other with turn-by-turn directions, all within a collaborative environment.
 
-**Tech Stack:** Flutter, Node.js, Socket.IO, Provider
+**Tech Stack:** Flutter, Material Design, Node.js, Socket.IO, Provider
 
 ![Here We Go](https://github.com/anjumArnab/Here-We-Go/blob/main/assets/herewego.gif)
 
@@ -34,16 +34,9 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 <td width="50%" valign="top">
 
 ### [AuthSync](https://github.com/anjumArnab/AuthSync)
-**Description:** Comprehensive Flutter authentication app with Firebase integration and custom multi-account switching functionality.
+**Description:** Comprehensive Flutter authentication app that integrates Firebase for email/password, Google, Facebook, and phone login while adding full account-management features such as sign-up, password reset, email verification, and account deletion. It introduces a custom multi-account system that addresses Firebase’s lack of native multi-account support by securely storing multiple authenticated profiles locally in encrypted storage, enabling seamless account switching without reauthentication. A Node.js backend using the Firebase Admin SDK ensures secure server-side validation and token cleanup.
 
-**Features:**
-- Standard Authentication: Email/Password, Google, Facebook, Phone
-- Account Management: Sign-up, Password reset, Email verification, Account deletion
-- Multi-Account System: Custom multiple account switching
-- Secure Storage: Encrypted local storage with automatic token cleanup
-- Server Integration: Node.js backend with Firebase Admin SDK
-
-**Tech Stack:** Flutter, Firebase, Firebase Admin SDK, Node.js
+**Tech Stack:** Flutter, Material Design, Node.js, Firebase, Firebase Admin SDK
 
 ![AuthSync Demo](https://github.com/anjumArnab/AuthSync/blob/main/assets/authsync.gif)
 
@@ -54,13 +47,9 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 <td width="50%" valign="top">
 
 ### [Markify](https://github.com/anjumArnab/Markify)
-**Description:** Markify is a lightweight Flutter app that tracks your CGPA using **Google Sheets** as a backend database, with **Google Apps Script** providing a RESTful API interface.
+**Description:** Flutter app that tracks your CGPA using Google Sheets as the backend, powered by a Google Apps Script REST API. It lets you download your data in CSV, JSON, or PDF formats and easily share it with others.
 
-**Feature:**
-- Download data as CSV, JSON, or PDF format
-- Share with others
-
-**Tech Stack:** Flutter, Google Sheets, Google Apps Script, Provider
+**Tech Stack:** Flutter, Material Design, Google Sheets, Google Apps Script, Provider
 
 ![Markify](https://github.com/anjumArnab/Markify/blob/main/assets/markify.gif)
 
@@ -81,7 +70,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 <td width="50%" valign="top">
 
 ### [Tasbih](https://github.com/anjumArnab/Tasbih)
-**Description:** Islamic dhikr counter featuring **streak visualization** with dynamic color coding that intensifies as users complete more daily dhikr sessions. Includes preloaded Islamic dhikrs with flexibility to add custom dhikr and achievements for milestones.
+**Description:** Islamic dhikr counter featuring streak visualization with dynamic color coding that intensifies as users complete more daily dhikr sessions. Includes preloaded Islamic dhikrs, with the flexibility to add custom dhikrs and achievements for milestones.
 
 **Tech Stack:** Flutter, Material Design, Hive
 
