@@ -34,7 +34,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 <td width="50%" valign="top">
 
 ### [AuthSync](https://github.com/anjumArnab/AuthSync)
-**Description:** Comprehensive Flutter authentication app that integrates Firebase for email/password, Google, Facebook, and phone login while adding full account-management features such as sign-up, password reset, email verification, and account deletion. It introduces a custom multi-account system that addresses Firebase’s lack of native multi-account support by securely storing multiple authenticated profiles locally in encrypted storage, enabling seamless account switching without reauthentication. A Node.js backend using the Firebase Admin SDK ensures secure server-side validation and token cleanup.
+**Description:** Authentication app using Firebase that supports email/password, Google, Facebook, and phone login, with full account management (sign-up, password reset, email verification, deletion). It overcomes Firebase’s lack of native multi-account support by securely storing multiple authenticated profiles locally in encrypted storage, enabling seamless account switching without reauthentication.
 
 **Tech Stack:** Flutter, Material Design, Node.js, Firebase, Firebase Admin SDK
 
@@ -49,7 +49,7 @@ I am a Flutter developer focused on building scalable, maintainable, and high-pe
 ### [Markify](https://github.com/anjumArnab/Markify)
 **Description:** Flutter app that tracks your CGPA using Google Sheets as the backend, powered by a Google Apps Script REST API. It lets you download your data in CSV, JSON, or PDF formats and easily share it with others.
 
-**Tech Stack:** Flutter, Material Design, Google Sheets, Google Apps Script, Provider
+**Tech Stack:** Flutter, Material Design, Google Sheets, Google Apps Script, GetX
 
 ![Markify](https://github.com/anjumArnab/Markify/blob/main/assets/markify.gif)
 
