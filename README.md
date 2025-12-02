@@ -1,6 +1,6 @@
 # Hi, I'm Arnab
 
-I am a Flutter developer focused on building scalable, maintainable, and high-performance mobile applications. I'm currently advancing my expertise in state management, animations, and full-stack development with Firebase and Node.js.
+Focused on cross-platform mobile application development, actively gaining expertise in scalable architecture, best practices for readable and testable code, with plans to expand into native mobile technologies and Node.js backend to become a full-stack developer.
 
 ---
 
